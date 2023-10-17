@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Website URL for project
+
+https://abhi-1441.github.io/keep-notes/
+
 ## Available Scripts
 
 In the project directory, you can run:
